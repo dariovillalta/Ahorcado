@@ -1,0 +1,7 @@
+BillGates
+LinusTorvalds
+RichardStallman
+MichaelAJackson
+MarkZuckerberg
+KimDotcom
+AlanTuring
